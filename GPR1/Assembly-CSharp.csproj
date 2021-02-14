@@ -59,6 +59,7 @@
     <Compile Include="Assets\Scripts\Deel1.cs" />
     <Compile Include="Assets\Scripts\Deel2.cs" />
     <Compile Include="Assets\Scripts\Deel3.cs" />
+    <Compile Include="Assets\Scripts\Deel4.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
